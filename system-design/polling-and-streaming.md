@@ -1,2 +1,0 @@
-# Polling and Streaming
-

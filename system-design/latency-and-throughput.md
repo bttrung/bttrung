@@ -1,2 +1,0 @@
-# Latency and Throughput
-

@@ -1,2 +1,0 @@
-# Replication and Sharding
-
